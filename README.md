@@ -1,5 +1,5 @@
 # vue-project
-本项目采用vue3 
+本项目用于学习vue3 和TypeScript
 
 ## 使用
 
